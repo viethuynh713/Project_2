@@ -1,0 +1,191 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.6f1 (c0fade0cc7e9) revision 12647134'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 8036 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/OneDrive/Desktop/Unity/Project_2_Team_1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56187
+Successfully changed project path to: C:/Users/User/OneDrive/Desktop/Unity/Project_2_Team_1
+C:/Users/User/OneDrive/Desktop/Unity/Project_2_Team_1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 211.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/OneDrive/Desktop/Unity/Project_2_Team_1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 with Max-Q Design (ID=0x1f99)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   26.21.14.4223
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001970 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 105.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.887 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004299 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 153.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.798 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3824.
+Total: 3.209800 ms (FindLiveObjects: 0.360100 ms CreateObjectMapping: 0.218900 ms MarkObjects: 2.478400 ms  DeleteObjects: 0.151300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Knight Files/Demo.unity
+  artifactKey: Guid(27f123e5d28716f4d85538a63403ea87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Files/Demo.unity using Guid(27f123e5d28716f4d85538a63403ea87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a32e979f72d3105bf0a56f41b1084da') in 0.031157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.117281 seconds.
+  path: Assets/Item/item.png
+  artifactKey: Guid(8db4f80f377cc9743b4b173bb577bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Item/item.png using Guid(8db4f80f377cc9743b4b173bb577bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14b179d4d9a4d75beb15414f6d630d3') in 0.188212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.485882 seconds.
+  path: Assets/Item/item.png
+  artifactKey: Guid(8db4f80f377cc9743b4b173bb577bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Item/item.png using Guid(8db4f80f377cc9743b4b173bb577bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd955e893ffa5327174671677fbb960') in 0.034861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.027898 seconds.
+  path: Assets/Item/item.png
+  artifactKey: Guid(8db4f80f377cc9743b4b173bb577bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Item/item.png using Guid(8db4f80f377cc9743b4b173bb577bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6841a910ac6d2523ee946d1c866c1a99') in 0.032295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.720304 seconds.
+  path: Assets/Enemies/Turtle
+  artifactKey: Guid(bcee13552d129164e8f4a5d46ae36e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle using Guid(bcee13552d129164e8f4a5d46ae36e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d997e167b3a9bdf20766770606f209') in 0.008803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100163 seconds.
+  path: Assets/Enemies/Turtle/Hit (44x26).png
+  artifactKey: Guid(1be4f088c23bfd74091c162649ac6f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Hit (44x26).png using Guid(1be4f088c23bfd74091c162649ac6f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c1dfcd57e50bde9088119ad2d887ed1') in 0.033939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/Enemies/Turtle/Spikes in (44x26).png
+  artifactKey: Guid(e6fc6dc4e21030043abfa53d019c42ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Spikes in (44x26).png using Guid(e6fc6dc4e21030043abfa53d019c42ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c570fb4de1c182e7c99b72cbacc6b0') in 0.043758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Enemies/Turtle/Spikes out (44x26).png
+  artifactKey: Guid(5b94c5df9bdd3c9488690c89f80edde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Spikes out (44x26).png using Guid(5b94c5df9bdd3c9488690c89f80edde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a852695be93add1e9a5c8b1033c675') in 0.037501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Enemies/Turtle/Idle 2 (44x26).png
+  artifactKey: Guid(a9c658600a401f347888cfd916603aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Idle 2 (44x26).png using Guid(a9c658600a401f347888cfd916603aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92e85faaa641954128c080ae60a446e') in 0.057398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Enemies/Turtle/Idle 1 (44x26).png
+  artifactKey: Guid(81599edd816625a4394b87c55bc6d552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Idle 1 (44x26).png using Guid(81599edd816625a4394b87c55bc6d552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f067b934a96d50591bba3c3b33a9687') in 0.062713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.111250 seconds.
+  path: Assets/Enemies/Turtle/Idle 2 (44x26)_0.controller
+  artifactKey: Guid(44369da652315e648b99d3acffc862ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Idle 2 (44x26)_0.controller using Guid(44369da652315e648b99d3acffc862ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d4548bd747802713e1b6f4aae2ba80') in 0.019223 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006647 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.174 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.3 MB.
+System memory in use after: 135.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3959.
+Total: 3.701400 ms (FindLiveObjects: 0.349600 ms CreateObjectMapping: 0.193600 ms MarkObjects: 3.043200 ms  DeleteObjects: 0.113600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.375094 seconds.
+  path: Assets/Enemies/Ghost
+  artifactKey: Guid(838e5abb9ce054f4a84cf9126d33b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost using Guid(838e5abb9ce054f4a84cf9126d33b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f0a1dc1a93344dfe09b25cabd978bc') in 0.014815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Enemies/Ghost/Appear (44x30).png
+  artifactKey: Guid(a26831e3796d4f6498e8400f4a01326b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Appear (44x30).png using Guid(a26831e3796d4f6498e8400f4a01326b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e010f88144219b6cee30e9be4514db60') in 0.096516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(fe0d305c386c24f49b22110bd836c48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Hit (44x30).png using Guid(fe0d305c386c24f49b22110bd836c48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f530136c98e59c6e6d76cc9feed7349') in 0.038643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Enemies/Ghost/Gost Particles (16x16).png
+  artifactKey: Guid(14048ba4b41a50449a2a86a01088f5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Gost Particles (16x16).png using Guid(14048ba4b41a50449a2a86a01088f5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e12e98d28b2b42a7be2ba5c2d10171c') in 0.026568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(0aff58a705260724ba202eab0ca4f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Desappear (44x30).png using Guid(0aff58a705260724ba202eab0ca4f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908b7e5e450ec0ef502a9245d206f79a') in 0.025544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(d4f2f936f814df24fb7559370c465cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Idle (44x30).png using Guid(d4f2f936f814df24fb7559370c465cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffdfab1625a7fd794d5cd95cb4198b33') in 0.048529 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
